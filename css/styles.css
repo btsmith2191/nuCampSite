@@ -49,8 +49,16 @@ header h2 {
     border: solid #5637DD;
 }
 
+#carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
+}
+
 #contactUsBody {
     border: solid 2px blue;
     border-radius: 25px;
     padding: 0 10%;
 }
+
